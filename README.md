@@ -50,7 +50,7 @@ $ lengmo --info
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=GuinsooRocky&theme=chalk&row=1&column=7&margin-w=8" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuinsooRocky&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=false&radius=0" alt="activity graph" />
 
 </div>
 
