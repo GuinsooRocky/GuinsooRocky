@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: generate stats card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
           options: username=GuinsooRocky&show_icons=true&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&border_radius=0
@@ -24,7 +24,7 @@ jobs:
           fail_on_error: "true"
 
       - name: generate top-langs card
-        uses: stats-organization/github-readme-stats-action@v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
           options: username=GuinsooRocky&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=0
@@ -33,7 +33,7 @@ jobs:
           fail_on_error: "true"
 
       - name: generate snake
-        uses: Platane/snk@v3
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3
         with:
           github_user_name: GuinsooRocky
           github_token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
