@@ -52,6 +52,13 @@ $ guinsoo --info
 
 <a name="img5"><img src="https://streak-stats.demolab.com?user=GuinsooRocky&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&border_radius=0" alt="streak" /></a>
 
+<br/><br/>
+
+<a name="img23"><img height="64" src="assets/achievements/pull-shark-x3.png" alt="Pull Shark x3" title="Pull Shark x3" /></a>
+<a name="img24"><img height="64" src="assets/achievements/pair-extraordinaire-x4.png" alt="Pair Extraordinaire x4" title="Pair Extraordinaire x4" /></a>
+<a name="img25"><img height="64" src="assets/achievements/quickdraw.png" alt="Quickdraw" title="Quickdraw" /></a>
+<a name="img26"><img height="64" src="assets/achievements/yolo.png" alt="YOLO" title="YOLO" /></a>
+
 
 </div>
 
