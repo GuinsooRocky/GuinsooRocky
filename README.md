@@ -76,6 +76,14 @@ $ guinsoo --info
 
 </div>
 
+## `> watch contributions`
+
+<div align="center">
+
+<a name="img22"><img src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/snake.svg" alt="snake" /></a>
+
+</div>
+
 <div align="center">
 
 <pre>
