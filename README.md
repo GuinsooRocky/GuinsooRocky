@@ -8,7 +8,7 @@
 █████  █████  █░░░█  █████  █░░░█  █████
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FRONTEND+ENGINEER;AI-NATIVE+CODER;SHIPPING+PIXELS+SINCE+FOREVER" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FULL-STACK+ENGINEER;LLM+APPS+%26+AGENTS;SHIPPING+END+TO+END" alt="typing" />
 
 <br/>
 
@@ -22,9 +22,12 @@
 
 ```text
 $ lengmo --info
-├── role      frontend engineer
-├── stack     typescript / react / next.js / react-native / rust(learning)
-├── building  voice tools · menubar apps · ai coding pipelines
+├── role      full-stack engineer · LLM apps & agents
+├── frontend  typescript / react / next.js / react-native
+├── backend   node / python / postgres (supabase) / rust
+├── native    swift (macOS) / rust (objc2) / tauri
+├── ai        agent pipelines · evals · prompt & context engineering
+├── shipping  soliloquy.live — AI companion product, web + desktop + backend
 └── writing   AI coding & side projects @ RedNote(小红书)
 ```
 
@@ -32,10 +35,20 @@ $ lengmo --info
 
 | repo | what |
 | --- | --- |
-| [`mk`](https://github.com/GuinsooRocky/mk) | macOS push-to-talk voice input for Claude Code & terminals |
+| [`soliloquy.live`](https://soliloquy.live) | AI companion product — Next.js web, Tauri desktop, Supabase backend |
+| [`dk`](https://github.com/GuinsooRocky/dk) | self-hosted bridge: Feishu / Telegram / WeCom → Claude Code on your own Mac |
+| [`pageforge`](https://github.com/GuinsooRocky/pageforge) | PRD → frontend code, multi-agent codegen pipeline for Claude Code |
+| [`mk`](https://github.com/GuinsooRocky/mk) | macOS push-to-talk voice input for Claude Code & terminals — Swift |
 | [`ccbar`](https://github.com/GuinsooRocky/ccbar) | macOS menubar client for Claude Code usage quotas — Rust + objc2 |
-| [`pageforge`](https://github.com/GuinsooRocky/pageforge) | PRD → frontend code, fully automated codegen workflow for Claude Code |
-| [`sf-reader-all`](https://github.com/GuinsooRocky/sf-reader-all) | universal content reader for 7+ platforms |
+| [`sf-reader-all`](https://github.com/GuinsooRocky/sf-reader-all) | universal content reader for 7+ platforms — Python |
+
+## `> git log --upstream --merged`
+
+| where | what |
+| --- | --- |
+| [`vercel/next.js#93271`](https://github.com/vercel/next.js/pull/93271) | Turbopack: keep Workers same-origin when `assetPrefix` points to a CDN |
+| [`addyosmani/web-quality-skills#9`](https://github.com/addyosmani/web-quality-skills/pull/9) | fix 4 bugs in the web quality audit script |
+| [`runesleo/x-reader#18`](https://github.com/runesleo/x-reader/pull/18) [`#19`](https://github.com/runesleo/x-reader/pull/19) | detect WeChat / Xiaohongshu anti-bot stubs, fall back to Playwright |
 
 ## `> cat stats.log`
 
@@ -63,11 +76,20 @@ $ lengmo --info
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" />
+<br/>
 <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white" />
 
 </div>
 
