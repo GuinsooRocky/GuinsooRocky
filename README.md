@@ -43,16 +43,13 @@ $ guinsoo --info
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GuinsooRocky&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&border_radius=0&hide_title=false" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuinsooRocky&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=0" alt="langs" />
+<img height="170" src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/stats.svg" alt="stats" />
+<img height="170" src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/top-langs.svg" alt="langs" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=GuinsooRocky&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&border_radius=0" alt="streak" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuinsooRocky&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=false&radius=0" alt="activity graph" />
 
 </div>
 
