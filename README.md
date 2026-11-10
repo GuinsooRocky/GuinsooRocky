@@ -8,11 +8,11 @@
 █████  █████  █████  █░░░█  █████  █████  █████
 </pre>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FULL-STACK+ENGINEER;LLM+APPS+%26+AGENTS;SHIPPING+END+TO+END" alt="typing" />
+<a><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FULL-STACK+ENGINEER;LLM+APPS+%26+AGENTS;SHIPPING+END+TO+END" alt="typing" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=GuinsooRocky&color=000000&style=flat-square&label=VISITORS" alt="visitors" />
+<a><img src="https://komarev.com/ghpvc/?username=GuinsooRocky&color=000000&style=flat-square&label=VISITORS" alt="visitors" /></a>
 
 </div>
 
@@ -43,12 +43,12 @@ $ guinsoo --info
 
 <div align="center">
 
-<img height="170" src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/stats.svg" alt="stats" />
-<img height="170" src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/top-langs.svg" alt="langs" />
+<a><img height="170" src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/stats.svg" alt="stats" /></a>
+<a><img height="170" src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/top-langs.svg" alt="langs" /></a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=GuinsooRocky&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&border_radius=0" alt="streak" />
+<a><img src="https://streak-stats.demolab.com?user=GuinsooRocky&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=999999&border_radius=0" alt="streak" /></a>
 
 
 </div>
@@ -57,22 +57,22 @@ $ guinsoo --info
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white" />
+<a><img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white" /></a>
 
 </div>
 
