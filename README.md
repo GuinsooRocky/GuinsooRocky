@@ -1,11 +1,11 @@
 <div align="center">
 
 <pre>
-█████  █   █  █████  █   █  █████  █████  █████
-█      █   █    █    ██  █  █      █   █  █   █
-█ ███  █   █    █    █ █ █  █████  █   █  █   █
-█   █  █   █    █    █  ██      █  █   █  █   █
-█████  █████  █████  █   █  █████  █████  █████
+█████  █░░░█  █████  █░░░█  █████  █████  █████
+█░░░░  █░░░█  ░░█░░  ██░░█  █░░░░  █░░░█  █░░░█
+█░███  █░░░█  ░░█░░  █░█░█  █████  █░░░█  █░░░█
+█░░░█  █░░░█  ░░█░░  █░░██  ░░░░█  █░░░█  █░░░█
+█████  █████  █████  █░░░█  █████  █████  █████
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FULL-STACK+ENGINEER;LLM+APPS+%26+AGENTS;SHIPPING+END+TO+END" alt="typing" />
@@ -30,17 +30,6 @@ $ guinsoo --info
 ├── shipping  soliloquy.live — AI companion product, web + desktop + backend
 └── writing   AI coding & side projects @ RedNote(小红书)
 ```
-
-## `> ls ./projects`
-
-| repo | what |
-| --- | --- |
-| [`soliloquy.live`](https://soliloquy.live) | AI companion product — Next.js web, Tauri desktop, Supabase backend |
-| [`dk`](https://github.com/GuinsooRocky/dk) | self-hosted bridge: Feishu / Telegram / WeCom → Claude Code on your own Mac |
-| [`pageforge`](https://github.com/GuinsooRocky/pageforge) | PRD → frontend code, multi-agent codegen pipeline for Claude Code |
-| [`mk`](https://github.com/GuinsooRocky/mk) | macOS push-to-talk voice input for Claude Code & terminals — Swift |
-| [`ccbar`](https://github.com/GuinsooRocky/ccbar) | macOS menubar client for Claude Code usage quotas — Rust + objc2 |
-| [`sf-reader-all`](https://github.com/GuinsooRocky/sf-reader-all) | universal content reader for 7+ platforms — Python |
 
 ## `> git log --upstream --merged`
 
@@ -77,27 +66,16 @@ $ guinsoo --info
 <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" />
 <img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" />
-<br/>
 <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white" />
-
-</div>
-
-## `> watch contributions`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/snake.svg" alt="snake" />
 
 </div>
 
