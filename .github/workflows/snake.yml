@@ -20,7 +20,7 @@ jobs:
           card: stats
           options: username=GuinsooRocky&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&border_color=ffffff&border_radius=0
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
       - name: generate top-langs card
@@ -29,7 +29,7 @@ jobs:
           card: top-langs
           options: username=GuinsooRocky&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&border_radius=0
           path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
       - name: generate snake
