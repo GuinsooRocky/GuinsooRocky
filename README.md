@@ -21,7 +21,7 @@
 ## `> whoami`
 
 ```text
-$ lengmo --info
+$ guinsoo --info
 ├── role      full-stack engineer · LLM apps & agents
 ├── frontend  typescript / react / next.js / react-native
 ├── backend   node / python / postgres (supabase) / rust
