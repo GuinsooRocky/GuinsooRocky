@@ -16,6 +16,12 @@
 
 </div>
 
+<div align="center">
+
+<a name="img22"><img src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/snake.svg" alt="snake" /></a>
+
+</div>
+
 <br/>
 
 ## `> whoami`
@@ -73,14 +79,6 @@ $ guinsoo --info
 <a name="img19"><img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" /></a>
 <a name="img20"><img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" /></a>
 <a name="img21"><img src="https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white" /></a>
-
-</div>
-
-## `> watch contributions`
-
-<div align="center">
-
-<a name="img22"><img src="https://raw.githubusercontent.com/GuinsooRocky/GuinsooRocky/output/snake.svg" alt="snake" /></a>
 
 </div>
 
