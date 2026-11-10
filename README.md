@@ -10,10 +10,6 @@
 
 <a name="img1"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FULL-STACK+ENGINEER;LLM+APPS+%26+AGENTS;SHIPPING+END+TO+END" alt="typing" /></a>
 
-<br/>
-
-<a name="img2"><img src="https://komarev.com/ghpvc/?username=GuinsooRocky&color=000000&style=flat-square&label=VISITORS" alt="visitors" /></a>
-
 </div>
 
 <div align="center">
