@@ -1,11 +1,11 @@
 <div align="center">
 
 <pre>
-█░░░░  █████  █░░░█  █████  █░░░█  █████
-█░░░░  █░░░░  ██░░█  █░░░░  ██░██  █░░░█
-█░░░░  ████░  █░█░█  █░███  █░█░█  █░░░█
-█░░░░  █░░░░  █░░██  █░░░█  █░░░█  █░░░█
-█████  █████  █░░░█  █████  █░░░█  █████
+█████  █   █  █████  █   █  █████  █████  █████
+█      █   █    █    ██  █  █      █   █  █   █
+█ ███  █   █    █    █ █ █  █████  █   █  █   █
+█   █  █   █    █    █  ██      █  █   █  █   █
+█████  █████  █████  █   █  █████  █████  █████
 </pre>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=44&lines=FULL-STACK+ENGINEER;LLM+APPS+%26+AGENTS;SHIPPING+END+TO+END" alt="typing" />
